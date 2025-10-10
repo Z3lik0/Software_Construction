@@ -1,0 +1,9 @@
+id,timestamp,function_name,event
+618250,2024-11-12 01:44:48.005622,get_cube_power,start
+618250,2024-11-12 01:44:48.005659,get_cube_power,stop
+956590,2024-11-12 01:44:48.005671,add_cubes,start
+252638,2024-11-12 01:44:48.005685,get_cube_power,start
+252638,2024-11-12 01:44:48.005697,get_cube_power,stop
+824557,2024-11-12 01:44:48.005705,get_cube_power,start
+824557,2024-11-12 01:44:48.005721,get_cube_power,stop
+956590,2024-11-12 01:44:48.005729,add_cubes,stop

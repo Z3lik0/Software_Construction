@@ -1,0 +1,14 @@
+[
+  {
+    "commitId": "1",
+    "date": "2024-12-02",
+    "message": "Initial commit: Stuff about SoCo",
+    "manifest": {"file.txt": "615700294481b005", "other_file.txt": "e415897fbaa83737"}
+  },
+  {
+    "commitId": "2",
+    "date": "2024-12-02",
+    "message": "Updated definition of SoCo in other_file.txt",
+    "manifest": {"file.txt": "f51d6b1fc9acb708", "other_file.txt": "e415897fbaa83737"}
+  }
+]
