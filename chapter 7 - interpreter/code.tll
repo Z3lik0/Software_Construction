@@ -1,0 +1,5 @@
+["sequenz",
+    ["setzen", "alpha", 1],
+    ["setzen", "beta", 2],
+    ["addieren", ["bekommen","alpha"], ["bekommen","beta"]] 
+]

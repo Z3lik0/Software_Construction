@@ -1,0 +1,20 @@
+[
+    {
+        "commit_id": 1,
+        "commit_date": "2024-11-26",
+        "commit_message": "This is to see whether the commit changes the status",
+        "manifest": {
+            "file.txt": "77859cce10d14870",
+            "other_file.txt": "f523aa19eb47b430"
+        }
+    },
+    {
+        "commit_id": 2,
+        "commit_date": "2024-11-26",
+        "commit_message": "version2 of file_txt",
+        "manifest": {
+            "file.txt": "41430a6ba91e9b66",
+            "other_file.txt": "f523aa19eb47b430"
+        }
+    }
+]

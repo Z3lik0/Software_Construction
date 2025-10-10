@@ -1,0 +1,15 @@
+dict:3
+str:1
+name
+str:1
+Alberto
+str:1
+age
+int:41
+str:1
+list
+list:2
+int:14
+str:2
+fourty
+twobool:True
